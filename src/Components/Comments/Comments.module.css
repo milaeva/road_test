@@ -1,0 +1,205 @@
+a{
+  text-decoration: none;
+  color: rgba(148, 148, 148, 0.5);
+}
+.comments{}
+.container{
+  width: 780px;
+  margin: auto;
+}
+.title{
+  font-family: 'Stag Medium', sans-serif;
+  font-size: 30px;
+  color: rgb(69, 69, 69);
+  line-height: 0.6;
+  padding-top: -20px;
+}
+.first{
+  display: flex;
+  justify-content: space-between;
+  color: rgba(#949494, 0.1);
+}
+
+.ava{
+  padding: 2px;
+  border: 2px solid rgb(235, 237, 238);
+  border-radius: 5px;
+  width: 85px;
+  height: 85px;
+}
+.btn0{
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 8px;
+  border-bottom: 2px solid rgba(#b6b6b6, 0.2);
+}
+.btn{
+  border-radius: 6px;
+  background-color: rgb(241, 196, 15);
+  width: 140px;
+  height: 44px;
+  border: none;
+}
+.btn1{
+  text-decoration: none;
+  color: rgb(69, 69, 69);
+}
+textarea{
+  width: 660px;
+  height: 86px;
+  border: 2px solid rgb(235, 237, 238);
+  border-radius: 5px;
+  color: rgba(#949494, 0.1);
+}
+
+/*.comments3*/
+.second{
+  padding-bottom: 10px;
+  padding-top: 30px;
+}
+.inf{
+  display: flex;
+  justify-content: flex-start;
+}
+.info{ display: flex;}
+.details{display: flex;}
+.time{
+  width: 15px;
+  height: 15px;
+}
+.subtitle{
+  font-size: 17px;
+  margin: 0px;
+  margin-right: 10px;
+  margin-bottom: 14px;
+    font-family: 'Stag Medium', sans-serif;
+}
+.text{
+  font-size: 15px;
+  margin: 0px;
+  color: rgba(148, 148, 148, 0.5);
+  font-family: 'Stag Book', sans-serif;
+}
+.quest{
+  font-size: 17px;
+  margin: 0px;
+  font-family: 'Stag Book', sans-serif;
+}
+.edit{
+  margin: 14px;
+  margin-left: 0px;
+}
+.ed{
+  color: rgba(#949494, 0.5);
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Stag Book', sans-serif;
+}
+.icon{
+  width: 15px;
+  height: 15px;
+}
+.post{
+  margin-left: 22px;
+}
+
+/*.comments3*/
+.third{
+  display: block;
+}
+.tem{
+  display: flex;
+  justify-content: space-between;
+}
+.txt{
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+.answer{
+  margin-left: 113px;
+  margin-bottom: 10px;
+}
+.ans{
+  color: rgba(#949494, 0.5);
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Stag Book', sans-serif;
+}
+.btn0{
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 8px;
+}
+
+/*.comments4*/
+.fourth{
+  display: flex;
+}
+.icon{
+  width: 15px;
+  height: 15px;
+}
+.ava4{
+  width: 60px;
+  height: 60px;
+  padding: 2px;
+  border: 2px solid #ebedee;
+  border-radius: 5px;
+  margin-left: 113px;
+}
+.ans{
+  margin-right: 10px;
+}
+.fifth{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.sixth{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.seventh{
+  padding-bottom: 10px;
+  padding-top: 30px;
+  }
+  .eighth{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ninth{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+.tenth{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.comments{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+.load{
+  width: 289px;
+  border-bottom: 2px solid rgb(242, 242, 242);
+}
+.btn2{
+  color: rgba(#949494, 0.5);
+  text-decoration: none;
+  font-size: 15px;
+  font-family: 'Stag Book', sans-serif;
+  border: 2px solid rgb(242, 242, 242);
+  padding: 10px;
+}
+
+content{
+  width: 186px;
+  height: 44px;
+}

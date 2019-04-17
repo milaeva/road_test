@@ -1,0 +1,134 @@
+
+.container{
+  width: 780px;
+  margin: auto;
+}
+section{
+  padding: 1px;
+  background-color: #f2f2f2;
+  width: 1200px;
+  margin: auto;
+}
+.post{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.05);
+  position: relative;
+  margin: auto;
+  top: -106px;
+  width: 940px;
+  height: 2390px;
+  margin-top: 25px;
+}
+.title{
+  font-size: 30px;
+  font-family: 'Stag Semibold', sans-serif;
+  color: rgb(69, 69, 69);
+  padding-top: 42px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid rgba(182, 182, 182, 0.2)
+}
+
+.subtitle{
+  font-family: 'Stag Medium', sans-serif;
+  color: rgba(148, 148, 148, 0.5);
+}
+.context{
+  margin-top: 10px;
+  font-size: 17px;
+  line-height: 1.47;
+  color: rgb(69, 69, 69);
+  font-family: 'Stag Book', sans-serif;
+  text-align: justify;
+}
+.logo{
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  margin-top: 42.5px;
+  margin-left: -56px;
+}
+.sub{
+  width: 780px;
+  padding-top: 2px;
+  font-size: 14px;
+}
+.post1{
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: -34px;
+}
+.txt{
+  margin-top: -10px;
+  margin-left: 20px;
+}
+.context{
+  margin-top: auto;
+  margin-left: 0px;
+  font-size: 12px;
+  line-height: 1.37;
+  max-width: 780px;
+  color: rgb(69, 69, 69);
+  text-align: justify;
+  font-family: 'Stag Book', sans-serif;
+  }
+
+.image0{
+  min-width: 365.3px;
+  min-height: 235px;
+  border: 5px solid rgb(242, 242, 242);
+  border-left: none;
+  margin-left: -80px;
+}
+.post2{
+  margin-top: -20px;
+  margin-left: 0.5px;
+}
+.post3{
+  margin-top: -11px;
+}
+.post4{
+  margin-top: -11px;
+}
+.context{
+  margin-top: 10px;
+  font-size: 17px;
+  line-height: 1.47;
+  color: rgb(69, 69, 69);
+  font-family: 'Stag Book', sans-serif;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+.detail{
+  display: flex;
+  justify-content: flex-start;
+  border-top: 2px solid rgba(69, 69, 69, 0.2);
+  border-bottom: 2px solid rgba(69, 69, 69, 0.2);
+  height: 53px;
+  margin: -15px;
+  margin-left: 0px;
+  margin-bottom: 7px;
+}
+.det{
+  margin-bottom: 20px;
+  margin-right: 48px;
+  padding-top: 17px;
+  font-size: 15px;
+  line-height: 1.3;
+}
+.date,
+.item,
+.comments {
+  color: rgba(148, 148, 148, 0.5);
+}
+.img1{
+  margin-top: 1px;
+  margin-left: 1px;
+}
+.img2{
+  margin-top: 1px
+}
+.img3{
+  margin-left: -3.5px;
+  margin-top: 2.2px;
+}
